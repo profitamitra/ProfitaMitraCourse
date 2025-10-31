@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5-Day Share Trading Crash Course | ProfitaMitra</title>
+
+  <!-- ✅ SEO Meta Tags -->
+  <meta name="description" content="Join ProfitaMitra’s 5-Day Share Trading Crash Course — learn how to trade confidently with live examples, mock trading, and expert guidance for just ₹555." />
+  <meta name="keywords" content="share trading course, stock market beginner, ProfitaMitra, trading training India, learn stock market, 5 day trading challenge" />
+  <meta name="author" content="ProfitaMitra" />
+
+  <!-- ✅ Open Graph / Social Preview -->
+  <meta property="og:title" content="5-Day Share Trading Crash Course by ProfitaMitra" />
+  <meta property="og:description" content="From confused beginner to confident trader — in just 5 days. Only ₹555!" />
+  <meta property="og:image" content="your_qr_image.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourgithubusername.github.io/ProfitaMitraCourse/" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+    body {
+      background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1f4037);
+      background-size: 400% 400%;
+      animation: gradientShift 10s ease infinite;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    h1 {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+      background: -webkit-linear-gradient(#f6d365, #fda085);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-transform: uppercase;
+    }
+    h2 { font-size: 1.1rem; font-weight: 400; margin-bottom: 25px; }
+    .card {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 20px;
+      padding: 30px;
+      max-width: 520px;
+      width: 100%;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+      backdrop-filter: blur(6px);
+      transition: transform 0.3s;
+    }
+    .card:hover { transform: translateY(-4px); }
+    .highlight { color: #f6d365; font-weight: 600; }
+    ul {
+      list-style: none;
+      text-align: left;
+      margin: 20px 0;
+    }
+    ul li { margin-bottom: 8px; }
+    ul li::before { content: "🔥 "; }
+    .price {
+      font-size: 1.6rem;
+      margin: 20px 0;
+      color: #fda085;
+      font-weight: bold;
+    }
+    .qr-section { margin: 25px 0; }
+    img.qr {
+      width: 180px;
+      height: 180px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+      box-shadow: 0 0 20px rgba(255,255,255,0.2);
+    }
+    .upi {
+      display: inline-block;
+      background: linear-gradient(90deg, #f6d365, #fda085);
+      color: #222;
+      padding: 12px 22px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 700;
+      transition: 0.3s;
+      box-shadow: 0 0 10px rgba(255,255,255,0.2);
+    }
+    .upi:hover {
+      transform: scale(1.05);
+      background: linear-gradient(90deg, #fda085, #f6d365);
+    }
+    .form-link { margin-top: 25px; }
+    .form-link a {
+      display: inline-block;
+      background: #fff;
+      color: #203a43;
+      padding: 12px 24px;
+      border-radius: 10px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .form-link a:hover { background: #f6d365; color: #222; transform: scale(1.05); }
+    footer { margin-top: 40px; font-size: 0.9rem; opacity: 0.8; }
+  </style>
+</head>
+<body>
+  <h1>5-Day Share Trading Crash Course</h1>
+  <h2>From confused beginner to confident trader — in just 5 days 💪</h2>
+
+  <div class="card">
+    <p>📆 <span class="highlight">Duration:</span> 5 Days (1 hour/day)</p>
+    <p>📈 <span class="highlight">Learn:</span> Stock basics, chart reading, mock trading, and safe investing</p>
+    <p class="price">🎟️ Course Fee: ₹555 only</p>
+
+    <ul>
+      <li>Day 1: Basics of Share Market</li>
+      <li>Day 2: Technical Analysis Fundamentals</li>
+      <li>Day 3: Chart Patterns & Indicators</li>
+      <li>Day 4: Mock Trading & Risk Control</li>
+      <li>Day 5: Building a Trading Plan</li>
+    </ul>
+
+    <div class="qr-section">
+      <img src="your_qr_image.png" alt="Payment QR" class="qr" />
+      <p>Scan QR or Pay via UPI link 👇</p>
+      <a href="upi://pay?pa=vinpat007-2@okhdfcbank&pn=ProfitaMitra&am=555&cu=INR&tn=Payment%20for%20ProfitaMitra%20Service" class="upi">Pay ₹555 Now</a>
+    </div>
+
+    <div class="form-link">
+      <a href="https://forms.gle/9S7kkVmQ3mKxjePs8" target="_blank">📝 Fill Registration Form</a>
+    </div>
+  </div>
+
+  <footer>© 2025 ProfitaMitra | Learn. Trade. Grow. Together.</footer>
+</body>
+</html>
